@@ -93,28 +93,25 @@ The client and internal stakeholders interested in consumer insights. The final 
 
 **Visualizations Used:**
 - Gender pie/bar chart
-  ![image](https://github.com/user-attachments/assets/c8f95ada-85d5-4a8c-a8dd-6115ea1521ba) ![image](https://github.com/user-attachments/assets/da70f810-d9ec-4fa7-b50c-bf6ef01525db)
-
+<br> ![image](https://github.com/user-attachments/assets/c8f95ada-85d5-4a8c-a8dd-6115ea1521ba)
+![image](https://github.com/user-attachments/assets/da70f810-d9ec-4fa7-b50c-bf6ef01525db)
 
 - Age, income, spending score histograms/boxplots
-  ![image](https://github.com/user-attachments/assets/c5ae3177-3e93-45e8-96a2-a351467f3eb3)
-  ![image](https://github.com/user-attachments/assets/09f2d059-67e0-4167-81da-35c209fed59c)
-![image](https://github.com/user-attachments/assets/d9c00c3f-fe09-40b5-ae8e-17382a5003fd)
+<br> ![image](https://github.com/user-attachments/assets/c5ae3177-3e93-45e8-96a2-a351467f3eb3)
+![image](https://github.com/user-attachments/assets/09f2d059-67e0-4167-81da-35c209fed59c)
+<br> ![image](https://github.com/user-attachments/assets/d9c00c3f-fe09-40b5-ae8e-17382a5003fd)
 ![image](https://github.com/user-attachments/assets/df63e80e-2135-4ed6-8fe7-159bbf5f8b39)
-
-![image](https://github.com/user-attachments/assets/20cf109f-d047-407f-a67c-e684ba6c1aae)
+<br> ![image](https://github.com/user-attachments/assets/20cf109f-d047-407f-a67c-e684ba6c1aae)
 
 - Elbow and silhouette plots
-  ![image](https://github.com/user-attachments/assets/c6bdbabc-84db-454f-a07a-8a28c1d59491)
-  ![image](https://github.com/user-attachments/assets/8b27ff49-2acf-4095-8c77-bec950f929bc)
-
+<br> ![image](https://github.com/user-attachments/assets/c6bdbabc-84db-454f-a07a-8a28c1d59491)
+![image](https://github.com/user-attachments/assets/8b27ff49-2acf-4095-8c77-bec950f929bc)
 
 - PCA-based 2D cluster visualizations
-  
-  ![image](https://github.com/user-attachments/assets/182c6697-31da-4efc-b492-e949ef4a674e)
+<br> ![image](https://github.com/user-attachments/assets/182c6697-31da-4efc-b492-e949ef4a674e)
 
 - Income vs. Spending Score, Age vs. Spending Score scatter plots
-![image](https://github.com/user-attachments/assets/17bf3976-3c80-47ed-86b1-371e6731c9da)
+<br> ![image](https://github.com/user-attachments/assets/17bf3976-3c80-47ed-86b1-371e6731c9da)
 ![image](https://github.com/user-attachments/assets/6c5fd6bd-f36e-434a-b989-acea8582ba12)
 
 **Key Findings:**
